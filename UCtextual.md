@@ -1,5 +1,12 @@
 # Use case StreamEveryThing
+<br></br>
 ![UCdiagram](UCdiagram.png)
+
+
+<br></br>
+---
+---
+<br></br>
 
 ## LogIn 
 *id: 1*
@@ -21,52 +28,61 @@
 **Post-condizioni**: L'utente ha accesso al proprio account e ai contenuti associati.
 
 ### Sequenze alternative:
-    - Utente non registrato
-    - Password o User ID dimenticati
-    - Richiesta di autenticazione a due fattori
+- Utente non registrato
+- Password o User ID dimenticati
+- Richiesta di autenticazione a due fattori
 
+
+<br></br>
 ---
+---
+<br></br>
 
 ## Download 
 *id: 2*
 
 **Breve descrizione**: L'utente premium richiede il download di un contenuto.
-**Attore principale**: Utente Premium 
-**Attori secondari**: //
+**Attore principale**: Utente Premium  
+**Attori secondari**: Nessuno  
 **Precondizioni**: 
-    L'utente deve:
-        - Aver effetuato il login
-        - Essere premium 
-        - Aver effetuato l'ultimo pagamento
-    Il contenuto richiesto deve essere presente nella piattaforma
+- L'utente deve:
+  - Aver effettuato il login
+  - Essere un utente premium
+  - Aver saldato l'ultimo pagamento
+- Il contenuto richiesto deve essere presente sulla piattaforma
 
 ### Sequenza principale:
-    1. l'utente cerca il contentuo 
-    2. il sistema verifca che il contentuo sia nella lista 
-    3. se non presente:
-        3.1 annulla l'operazione 
-    4 altrimenti:
-        4.1 procede 
-    5. il sistema verifica che l'utente sia collegato 
+    1. L'utente cerca il contenuto.
+    2. Il sistema verifica che il contenuto sia presente.
+    3. Se non è presente:
+    3.1 Annulla l'operazione.
+    4. Altrimenti:
+    4.1 Procede.
+    5. Il sistema verifica che l'utente sia collegato.
     6. Se l'utente è collegato:
-        6.1 controlla che sia un utente premium 
-        6.2 Se l'utente è premium:
-            6.2.1 controlla che l'ultimo pagamento sia avventuo
-            6.2.2 se il pagamento è avenuto:
-                6.2.2.1 il sistema permette il download 
-            6.2.3 altrimenti:
-                6.2.3.1 mostra richiede di fare il pagamento
-        6.3 altrimenti
-            6.3.1  richiede di passare a premium
-    7. altrimenti
-        7.1 richiede di fare il login 
+    6.1 Controlla che sia un utente premium.
+    6.2 Se l'utente è premium:
+        6.2.1 Controlla che l'ultimo pagamento sia avvenuto.
+        6.2.2 Se il pagamento è avvenuto:
+                6.2.2.1 Il sistema permette il download.
+        6.2.3 Altrimenti:
+                6.2.3.1 Richiede di effettuare il pagamento.
+    6.3 Altrimenti:
+        6.3.1 Richiede di passare al piano premium.
+    7. Altrimenti:
+    7.1 Richiede di effettuare il login.
 
-**Post-condizioni**: l'utente avrà il suo contenuto al interno della sua libreria e disponblie onlie.
+**Post-condizioni**: L'utente avrà il contenuto all'interno della propria libreria e disponibile offline (o *online*, a seconda delle specifiche).
 
 ### Sequenze alternative:
-    - Utente non registrato
-    - Utente non pagante 
-    - Utente non premium 
-    - Contentuo non disponiblie 
-    - Download non finito per problemi di connesione 
+- Utente non registrato
+- Utente non pagante
+- Utente non premium
+- Contenuto non disponibile
+- Download non completato per problemi di connessione
+
+
+<br></br>
+---
+---
 
