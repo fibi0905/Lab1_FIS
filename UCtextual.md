@@ -7,6 +7,9 @@
 ---
 ---
 <br></br>
+<br></br>
+<br></br>
+
 
 ## LogIn 
 *id: 1*
@@ -40,6 +43,9 @@
 ---
 ---
 <br></br>
+<br></br>
+<br></br>
+
 
 ## Download 
 *id: 2*
@@ -73,7 +79,7 @@
             4.3.1 Richiede di passare al piano premium.
     5. Altrimenti:
         5.1 Richiede di effettuare il login.
-        
+
 ![LogPage](./Logpage.png)
 
 
