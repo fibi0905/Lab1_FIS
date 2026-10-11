@@ -18,7 +18,9 @@
 ### Sequenza principale:
     1. L'utente richiede di accedere al sistema.
     2. Il sistema visualizza la pagina di autenticazione.
-<!-- Metti immagine per login -->
+
+![LogPage](./Logpage.png)
+
     3. L'utente inserisce le credenziali.
     4. Il sistema verifica che siano corrette.
     5. Se le credenziali sono corrette:
@@ -54,7 +56,9 @@
 
 ### Sequenza principale:
     1. Il sistema mostra la pagina iniziale
-<!-- Metti immagine pagina web -->
+
+![DownloadPage](./Download.png)
+    
     2. l'utente sceglie il contentuo da scaricare
     3. Il sistema verifica che l'utente sia collegato.
     4. Se l'utente è collegato:
@@ -65,12 +69,13 @@
                     4.2.2.1 Il sistema permette il download.
             4.2.3 Altrimenti:
                     4.2.3.1 Richiede di effettuare il pagamento.
-<!-- Metti immagine per pagamanto -->
         4.3 Altrimenti:
             4.3.1 Richiede di passare al piano premium.
     5. Altrimenti:
         5.1 Richiede di effettuare il login.
-<!-- Rimetti immagine per pagina login -->
+        
+![LogPage](./Logpage.png)
+
 
 **Post-condizioni**: L'utente avrà il contenuto all'interno della propria libreria e disponibile offline (o *online*, a seconda delle specifiche).
 

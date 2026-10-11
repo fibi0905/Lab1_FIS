@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QbPFgQ63y_N1XUJoqFmW" name="Page-1">
-        <mxGraphModel dx="1433" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1696" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -172,7 +172,7 @@
                 <mxCell id="8j8-gjfb7RS2QEv2IWNM-252" parent="8j8-gjfb7RS2QEv2IWNM-250" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" value="&lt;span style=&quot;color: rgb(102, 102, 102);&quot;&gt;https://www.streameverything.com&lt;/span&gt;" vertex="1">
                     <mxGeometry height="26" width="250" x="130" y="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8j8-gjfb7RS2QEv2IWNM-253" parent="8j8-gjfb7RS2QEv2IWNM-250" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 17px; white-space: nowrap;&quot;&gt;Streameverything&lt;/span&gt;" vertex="1">
+                <mxCell id="8j8-gjfb7RS2QEv2IWNM-253" parent="8j8-gjfb7RS2QEv2IWNM-250" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(102, 102, 102); font-size: 17px; white-space: nowrap;&quot;&gt;StreamEveryThing&lt;/span&gt;" vertex="1">
                     <mxGeometry height="40" width="150" x="10" y="120" as="geometry"/>
                 </mxCell>
                 <mxCell id="8j8-gjfb7RS2QEv2IWNM-254" parent="8j8-gjfb7RS2QEv2IWNM-250" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Home&lt;/font&gt;" vertex="1">
@@ -183,9 +183,6 @@
                 </mxCell>
                 <mxCell id="8j8-gjfb7RS2QEv2IWNM-256" parent="8j8-gjfb7RS2QEv2IWNM-250" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Serie TV&lt;/font&gt;" vertex="1">
                     <mxGeometry height="30" width="100" x="335" y="125" as="geometry"/>
-                </mxCell>
-                <mxCell id="8j8-gjfb7RS2QEv2IWNM-257" parent="8j8-gjfb7RS2QEv2IWNM-250" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;[Profilo]&lt;/font&gt;" vertex="1">
-                    <mxGeometry height="30" width="80" x="530" y="125" as="geometry"/>
                 </mxCell>
                 <object placeholders="1" id="8j8-gjfb7RS2QEv2IWNM-258">
                     <mxCell parent="8j8-gjfb7RS2QEv2IWNM-250" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
@@ -233,6 +230,9 @@
                 </mxCell>
                 <mxCell id="8j8-gjfb7RS2QEv2IWNM-327" parent="8j8-gjfb7RS2QEv2IWNM-250" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;|&lt;/font&gt;" vertex="1">
                     <mxGeometry height="30" width="60" x="295" y="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="0R43xiFSsuuU9W-UsxnQ-1" parent="8j8-gjfb7RS2QEv2IWNM-250" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.user;" value="" vertex="1">
+                    <mxGeometry height="30" width="29.3" x="580.6999999999999" y="120" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
